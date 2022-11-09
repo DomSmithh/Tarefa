@@ -55,7 +55,7 @@ export default function Register()
 <button onClick={handleAdd}>Cadastrar</button>
         <br></br>
         <br></br>
-  <p className='cadastrar'> <Link to="/">já ossui uma conta?Faça o login</Link></p>
+  <p className='cadastrar'> <Link to="/">já possui uma conta?Faça o login</Link></p>
 
 </div>
 <br/><br/>

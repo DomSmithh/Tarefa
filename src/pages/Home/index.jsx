@@ -59,7 +59,7 @@ export default function Home()
 
 
 <button onClick={buscarPost}><Link to='/admin'>Acessar</Link></button>
-<p className='cadastrar'> Não Possui uma conta?<Link to="/register">Cadastre-se</Link></p>
+<p className='cadastrar'> <Link to="/register">Não possui uma conta?Cadastre-se</Link></p>
 
 </div>
 
